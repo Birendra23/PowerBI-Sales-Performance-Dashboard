@@ -1,6 +1,6 @@
 # 📊 Sales Analysis Dashboard | Power BI
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](Dashboard_Screenshot.png)
 
 ## 📌 Overview
 
@@ -44,7 +44,7 @@ The objective of this dashboard is to help stakeholders monitor KPIs and make da
 
 The image below represents the final interactive dashboard.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard_Screenshot.png)
 
 ---
 
