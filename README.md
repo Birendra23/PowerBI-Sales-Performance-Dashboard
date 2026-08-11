@@ -64,8 +64,8 @@ The image below represents the final interactive dashboard.
 
 **Birendra Pratap Singh**
 
-- GitHub: https://github.com/your-github-username
-- LinkedIn: https://linkedin.com/in/your-linkedin-profile
+- GitHub: https://github.com/Birendra23
+- LinkedIn: https://www.linkedin.com/in/birendra-pratap-singh-bps2618/
 
 ---
 
